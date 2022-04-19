@@ -1,6 +1,8 @@
 # Lambda-Container
 Example of creating a Lambda container image
 
+## [Blog](https://medium.com/towards-data-science/building-aws-lambda-container-images-5c4a9a15e8a2)
+
 ## Steps
 
 ```
